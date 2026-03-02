@@ -1,0 +1,2 @@
+# TelecomX_LATAM_2_parte
+Alura Challenge TelecomX_LATAM_2_parte
